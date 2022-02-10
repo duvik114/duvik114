@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duvik114 (Nikita Beliaev)
 - 📖 I'm currently studying in: National Research ITMO University
 - 👀 I’m interested in: backend, gamedev. 
-- 💪 My skills : C/C++, Java, Javascript, Clojure, Python, SDL/Sfml, Git
+- 💪 My skills : Java, C/C++, Javascript, Clojure, Python, SDL/Sfml, Git
 - 📫 How to reach me: duvik114@gmail.com
 
 <!---
