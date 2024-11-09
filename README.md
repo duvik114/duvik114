@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duvik114 (Nikita Beliaev)
-- 📖 I'm currently studying in: National Research ITMO University
-- 👀 I’m interested in developing high-qualified services on Java/Spring, and my hobby is gamedev. 
+- 📖 I'm bachelor of the National Research ITMO University
+- 👀 I’m interested in developing high-qualified backend, and my hobby is gamedev. 
 - 💪 My skills :  
                 MAIN: Java, Spring Boot.  
                 WEB: HTML, CSS, JavaScript.  
